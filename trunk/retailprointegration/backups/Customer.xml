@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created on 2015-01-16T11:50:14+01:00 -->
+<!-- V9 STATION -->
+<DOCUMENT>
+<CUSTOMERS>
+<CUSTOMER cust_sid="-2292714294047143936" sbs_no="1" cust_id="1000001" store_no="0" home_sbs_no="1" home_store_no="0" station="" status="0" first_name="TestCustomer" last_name="AhmedOpeyemi" info1="" info2="" price_lvl="1" credit_limit="0" credit_used="0" store_credit="0" accept_checks="1" detax="0" max_disc_perc="0" active="1" mark1="" mark2="" udf1_date="" udf2_date="" created_date="2014-12-24T05:07:24" modified_date="2014-12-24T05:07:24-08:00" ref_cust_sid="" email_addr="ahmed.opeyemi@yahoo.com" qb_id="" ar_flag="0" cms="1" household_code="" marketing_flag="" sec_lvl="0" cust_type="0" notes="" cms_post_date="2014-12-24T05:08:36" merge_cust_sid="" allow_post="0" allow_phone="1" allow_email="1" shipping_priority="" controller="0" orig_controller="0" last_sale_date="" check_limit="" fst_sale_date="" lst_sale_date="" lst_return_date="" lst_sale_amt="" disc_perc_upper_limit="100" term_type="" cent_payment_amt="" lty_opt_in="" lty_enroll_date="" lty_balance="" lty_accumulated="" lty_lvl_sid="" lty_lvl_locked="" lty_opt_in_manual="" alternate_id1="" alternate_id2="" region_sbs_no="-1" region_name="" sector_name="" cust_class_name="" company_name="" title="Mr." tax_area_name="" tax_area2_name="" createdby_sbs_no="1" createdby_empl_name="SYSADMIN" modifiedby_sbs_no="" modifiedby_empl_name="" primary_clerk_sbs_no="" primary_clerk_name="" lty_lvl_name="">
+<CUST_ADDRESSS>
+<CUST_ADDRESS addr_no="1" begin_date="2014-12-24T05:07:24" end_date="2014-12-24T05:07:24" addr_name="" shipping="0" address1="" address2="" address3="" address4="" address5="" address6="" zip="" phone1="01-12345678" phone2="" email_addr="" include_phone="0" include_email="0" include_post="0" default_addr="0" season_start_date="" season_end_date="" active="1" phone1_type_name="" phone2_type_name="" country_name="" tax_area_name="" tax_area2_name="" addr_type=""/>
+</CUST_ADDRESSS>
+<CUST_SUPPLS>
+<CUST_SUPPL udf_no="1" udf_value=""/>
+<CUST_SUPPL udf_no="2" udf_value=""/>
+<CUST_SUPPL udf_no="3" udf_value=""/>
+<CUST_SUPPL udf_no="4" udf_value=""/>
+<CUST_SUPPL udf_no="5" udf_value=""/>
+<CUST_SUPPL udf_no="6" udf_value=""/>
+<CUST_SUPPL udf_no="7" udf_value=""/>
+<CUST_SUPPL udf_no="8" udf_value=""/>
+<CUST_SUPPL udf_no="9" udf_value=""/>
+<CUST_SUPPL udf_no="10" udf_value=""/>
+<CUST_SUPPL udf_no="11" udf_value=""/>
+<CUST_SUPPL udf_no="12" udf_value=""/>
+<CUST_SUPPL udf_no="13" udf_value=""/>
+<CUST_SUPPL udf_no="14" udf_value=""/>
+<CUST_SUPPL udf_no="15" udf_value=""/>
+<CUST_SUPPL udf_no="16" udf_value=""/>
+<CUST_SUPPL udf_no="17" udf_value=""/>
+<CUST_SUPPL udf_no="18" udf_value=""/>
+<CUST_SUPPL udf_no="19" udf_value=""/>
+<CUST_SUPPL udf_no="20" udf_value=""/>
+</CUST_SUPPLS>
+<CUST_CRDS>
+</CUST_CRDS>
+<CUST_TERMS>
+</CUST_TERMS>
+</CUSTOMER>
+</CUSTOMERS>
+</DOCUMENT>
