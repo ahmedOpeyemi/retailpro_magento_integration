@@ -5,10 +5,10 @@ function logMessage($message){
 	fclose($fp);
 }
 try{
-$address='http://www.montaigneplace.com/api/soap/?wsdl';// http://www.montaigneplacespa.com/api/?wsdl
+$address='http://www.magentowebsite.com/api/soap/?wsdl';// http://www.montaigneplacespa.com/api/?wsdl
 ///$address='http://www.montaigneplace.com/api/v2_soap?wsdl=1';
-$apiUser="devpoint";
-$apiKey="devpointr3tailpr0";
+$apiUser="#";
+$apiKey="#";
 $client = new SoapClient($address);
 // If somestuff requires api authentification,
 // then get a session token
